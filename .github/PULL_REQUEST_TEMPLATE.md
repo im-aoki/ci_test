@@ -1,6 +1,8 @@
 ---
-name: 親issue
-about: issue作成時の基本テンプレート
+name: PR
+about: test
+assignees: im-higashi
+reviewers: im-higashi
 ---
 ## 概要
 {営業が見てわかるように変更概要を記載}
